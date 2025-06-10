@@ -11,7 +11,7 @@
 
 
 
-![]("screenshots/Screenshot 2025-06-09 204053.png")
+![](/screenshots/Screenshot 2025-06-09 204053.png)
 
-![]("screenshots/Screenshot 2025-06-09 204143.png")
+![](/screenshots/Screenshot 2025-06-09 204143.png)
 
